@@ -1,1 +1,3 @@
 # Exploratory-Analysis-using-Geolocational-Data
+- Developed exploratory study of geolocational data, using a variety of methodologies to assess efficiency. To extract profound insights, the K-means clustering technique was used to categorize data, followed by exploration and visualization of the dataset. Geospatial analysis expertise is demonstrated through the usage of Python, Scikit-learn, and Folium packages, showcasing a diverse skill set for smart data exploration and accurate modeling.
+- Find the best accommodation for students in Bangalore (or any other city of your choice) by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
